@@ -1,0 +1,686 @@
+[
+  {
+    "brokers_buy": [
+      {
+        "blot": "11930",
+        "blotv": "1.6265e+06",
+        "bval": "3.14869e+08",
+        "bvalv": "4.29374e+08",
+        "netbs_broker_code": "YP",
+        "netbs_buy_avg_price": "263.98647402397785",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Asing"
+      },
+      {
+        "blot": "4035",
+        "blotv": "595300",
+        "bval": "1.064806e+08",
+        "bvalv": "1.571658e+08",
+        "netbs_broker_code": "KK",
+        "netbs_buy_avg_price": "264.01108684696794",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Asing"
+      },
+      {
+        "blot": "2972",
+        "blotv": "318000",
+        "bval": "7.78526e+07",
+        "bvalv": "8.3353e+07",
+        "netbs_broker_code": "DR",
+        "netbs_buy_avg_price": "262.1163522012579",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Asing"
+      },
+      {
+        "blot": "2117",
+        "blotv": "543300",
+        "bval": "5.62512e+07",
+        "bvalv": "1.43895e+08",
+        "netbs_broker_code": "XL",
+        "netbs_buy_avg_price": "264.85367200441743",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "1047",
+        "blotv": "104700",
+        "bval": "2.75832e+07",
+        "bvalv": "2.75832e+07",
+        "netbs_broker_code": "KI",
+        "netbs_buy_avg_price": "263.44985673352437",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "700",
+        "blotv": "90000",
+        "bval": "1.84884e+07",
+        "bvalv": "2.37684e+07",
+        "netbs_broker_code": "DH",
+        "netbs_buy_avg_price": "264.0933333333333",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "662",
+        "blotv": "153300",
+        "bval": "1.75146e+07",
+        "bvalv": "4.05216e+07",
+        "netbs_broker_code": "GR",
+        "netbs_buy_avg_price": "264.32876712328766",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "227",
+        "blotv": "23100",
+        "bval": "5.9936e+06",
+        "bvalv": "6.0984e+06",
+        "netbs_broker_code": "PC",
+        "netbs_buy_avg_price": "264",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "210",
+        "blotv": "21000",
+        "bval": "5.502e+06",
+        "bvalv": "5.502e+06",
+        "netbs_broker_code": "AG",
+        "netbs_buy_avg_price": "262",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Asing"
+      },
+      {
+        "blot": "50",
+        "blotv": "15000",
+        "bval": "1.3e+06",
+        "bvalv": "3.94e+06",
+        "netbs_broker_code": "AO",
+        "netbs_buy_avg_price": "262.6666666666667",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMDR",
+        "type": "Lokal"
+      }
+    ],
+    "brokers_sell": [
+      {
+        "netbs_broker_code": "CC",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "263.9760198097224",
+        "netbs_stock_code": "SMDR",
+        "slot": "-6977",
+        "slotv": "1.5346e+06",
+        "sval": "-1.837158e+08",
+        "svalv": "4.050976e+08",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "PD",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "263.9320051413882",
+        "netbs_stock_code": "SMDR",
+        "slot": "-5185",
+        "slotv": "1.556e+06",
+        "sval": "-1.363444e+08",
+        "svalv": "4.106782e+08",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "YB",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "265.39286569308115",
+        "netbs_stock_code": "SMDR",
+        "slot": "-4139",
+        "slotv": "417700",
+        "sval": "-1.09853e+08",
+        "svalv": "1.108546e+08",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "XC",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "264.3156999489709",
+        "netbs_stock_code": "SMDR",
+        "slot": "-1883",
+        "slotv": "587900",
+        "sval": "-4.9761e+07",
+        "svalv": "1.553912e+08",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "AK",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "265.24645892351276",
+        "netbs_stock_code": "SMDR",
+        "slot": "-1837",
+        "slotv": "247100",
+        "sval": "-4.89268e+07",
+        "svalv": "6.55424e+07",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "NI",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "263.6423156443832",
+        "netbs_stock_code": "SMDR",
+        "slot": "-1143",
+        "slotv": "290200",
+        "sval": "-3.00452e+07",
+        "svalv": "7.6509e+07",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "LG",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "264",
+        "netbs_stock_code": "SMDR",
+        "slot": "-997",
+        "slotv": "106700",
+        "sval": "-2.63208e+07",
+        "svalv": "2.81688e+07",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "EP",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "263.90132370637787",
+        "netbs_stock_code": "SMDR",
+        "slot": "-800",
+        "slotv": "83100",
+        "sval": "-2.1115e+07",
+        "svalv": "2.19302e+07",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "AZ",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "264.6198347107438",
+        "netbs_stock_code": "SMDR",
+        "slot": "-467",
+        "slotv": "48400",
+        "sval": "-1.23588e+07",
+        "svalv": "1.28076e+07",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "CP",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "263.14772727272725",
+        "netbs_stock_code": "SMDR",
+        "slot": "-346",
+        "slotv": "35200",
+        "sval": "-9.1044e+06",
+        "svalv": "9.2628e+06",
+        "type": "Asing"
+      }
+    ],
+    "symbol": "SMDR",
+    "date": "2024-05-08"
+  },
+  {
+    "brokers_buy": [
+      {
+        "blot": "43785",
+        "blotv": "4.7026e+06",
+        "bval": "1.9977482e+10",
+        "bvalv": "2.1458761e+10",
+        "netbs_broker_code": "BK",
+        "netbs_buy_avg_price": "4563.169523242462",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Asing"
+      },
+      {
+        "blot": "22406",
+        "blotv": "2.6746e+06",
+        "bval": "1.0167667e+10",
+        "bvalv": "1.2139238e+10",
+        "netbs_broker_code": "YP",
+        "netbs_buy_avg_price": "4538.711583040455",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Asing"
+      },
+      {
+        "blot": "5046",
+        "blotv": "598800",
+        "bval": "2.29233e+09",
+        "bvalv": "2.722429e+09",
+        "netbs_broker_code": "SQ",
+        "netbs_buy_avg_price": "4546.4746158984635",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "3991",
+        "blotv": "494400",
+        "bval": "1.810386e+09",
+        "bvalv": "2.246273e+09",
+        "netbs_broker_code": "OD",
+        "netbs_buy_avg_price": "4543.432443365696",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Pemerintah"
+      },
+      {
+        "blot": "2754",
+        "blotv": "281200",
+        "bval": "1.245999e+09",
+        "bvalv": "1.272551e+09",
+        "netbs_broker_code": "BQ",
+        "netbs_buy_avg_price": "4525.4302987197725",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Asing"
+      },
+      {
+        "blot": "2692",
+        "blotv": "271700",
+        "bval": "1.228027e+09",
+        "bvalv": "1.239542e+09",
+        "netbs_broker_code": "AG",
+        "netbs_buy_avg_price": "4562.171512697829",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Asing"
+      },
+      {
+        "blot": "2662",
+        "blotv": "408900",
+        "bval": "1.204758e+09",
+        "bvalv": "1.853035e+09",
+        "netbs_broker_code": "DR",
+        "netbs_buy_avg_price": "4531.755930545366",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Asing"
+      },
+      {
+        "blot": "2641",
+        "blotv": "308300",
+        "bval": "1.200814e+09",
+        "bvalv": "1.400895e+09",
+        "netbs_broker_code": "GR",
+        "netbs_buy_avg_price": "4543.934479403179",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "2626",
+        "blotv": "343700",
+        "bval": "1.196515e+09",
+        "bvalv": "1.56661e+09",
+        "netbs_broker_code": "XL",
+        "netbs_buy_avg_price": "4558.073901658423",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Lokal"
+      },
+      {
+        "blot": "2602",
+        "blotv": "403700",
+        "bval": "1.189289e+09",
+        "bvalv": "1.841451e+09",
+        "netbs_broker_code": "XA",
+        "netbs_buy_avg_price": "4561.434233341591",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMGR",
+        "type": "Asing"
+      }
+    ],
+    "brokers_sell": [
+      {
+        "netbs_broker_code": "ZP",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4581.545141451415",
+        "netbs_stock_code": "SMGR",
+        "slot": "-30435",
+        "slotv": "4.065e+06",
+        "sval": "-1.3965012e+10",
+        "svalv": "1.8623981e+10",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "BB",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4562.285704326001",
+        "netbs_stock_code": "SMGR",
+        "slot": "-28269",
+        "slotv": "2.8687e+06",
+        "sval": "-1.2900774e+10",
+        "svalv": "1.3087829e+10",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "PD",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4490.997544505832",
+        "netbs_stock_code": "SMGR",
+        "slot": "-18644",
+        "slotv": "3.258e+06",
+        "sval": "-8.295499e+09",
+        "svalv": "1.463167e+10",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "AK",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4553.894461859979",
+        "netbs_stock_code": "SMGR",
+        "slot": "-15458",
+        "slotv": "3.828e+06",
+        "sval": "-6.898848e+09",
+        "svalv": "1.7432308e+10",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "CC",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4593.783443601743",
+        "netbs_stock_code": "SMGR",
+        "slot": "-12876",
+        "slotv": "3.0985e+06",
+        "sval": "-6.027319e+09",
+        "svalv": "1.4233838e+10",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "NI",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4595.240330874134",
+        "netbs_stock_code": "SMGR",
+        "slot": "-2672",
+        "slotv": "894600",
+        "sval": "-1.253877e+09",
+        "svalv": "4.110902e+09",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "KZ",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4532.65625",
+        "netbs_stock_code": "SMGR",
+        "slot": "-2112",
+        "slotv": "211200",
+        "sval": "-9.57297e+08",
+        "svalv": "9.57297e+08",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "RX",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4490.59015059015",
+        "netbs_stock_code": "SMGR",
+        "slot": "-1430",
+        "slotv": "737100",
+        "sval": "-5.86741e+08",
+        "svalv": "3.310014e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "TP",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4561.8249158249155",
+        "netbs_stock_code": "SMGR",
+        "slot": "-1248",
+        "slotv": "148500",
+        "sval": "-5.70156e+08",
+        "svalv": "6.77431e+08",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "KI",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "4578.6049723756905",
+        "netbs_stock_code": "SMGR",
+        "slot": "-466",
+        "slotv": "72400",
+        "sval": "-2.13934e+08",
+        "svalv": "3.31491e+08",
+        "type": "Lokal"
+      }
+    ],
+    "symbol": "SMGR",
+    "date": "2024-05-08"
+  },
+  {
+    "brokers_buy": [
+      {
+        "blot": "282669",
+        "blotv": "3.16679e+07",
+        "bval": "1.4471144e+10",
+        "bvalv": "1.6205654e+10",
+        "netbs_broker_code": "KI",
+        "netbs_buy_avg_price": "511.7375639054058",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Lokal"
+      },
+      {
+        "blot": "125001",
+        "blotv": "1.32765e+07",
+        "bval": "6.4676685e+09",
+        "bvalv": "6.8694395e+09",
+        "netbs_broker_code": "PD",
+        "netbs_buy_avg_price": "517.4134372763906",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Lokal"
+      },
+      {
+        "blot": "53590",
+        "blotv": "9.9769e+06",
+        "bval": "2.7206505e+09",
+        "bvalv": "5.114473e+09",
+        "netbs_broker_code": "YP",
+        "netbs_buy_avg_price": "512.6314787158336",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Asing"
+      },
+      {
+        "blot": "29060",
+        "blotv": "3.1278e+06",
+        "bval": "1.492205e+09",
+        "bvalv": "1.6065485e+09",
+        "netbs_broker_code": "AZ",
+        "netbs_buy_avg_price": "513.6353027687193",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Lokal"
+      },
+      {
+        "blot": "22350",
+        "blotv": "3.5602e+06",
+        "bval": "1.135554e+09",
+        "bvalv": "1.816851e+09",
+        "netbs_broker_code": "CP",
+        "netbs_buy_avg_price": "510.3227346778271",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Asing"
+      },
+      {
+        "blot": "21355",
+        "blotv": "2.1575e+06",
+        "bval": "1.0991335e+09",
+        "bvalv": "1.1103535e+09",
+        "netbs_broker_code": "MG",
+        "netbs_buy_avg_price": "514.648203939745",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Lokal"
+      },
+      {
+        "blot": "18539",
+        "blotv": "2.675e+06",
+        "bval": "9.64468e+08",
+        "bvalv": "1.387276e+09",
+        "netbs_broker_code": "KK",
+        "netbs_buy_avg_price": "518.6078504672897",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Asing"
+      },
+      {
+        "blot": "16911",
+        "blotv": "1.6921e+06",
+        "bval": "8.70817e+08",
+        "bvalv": "8.71332e+08",
+        "netbs_broker_code": "GR",
+        "netbs_buy_avg_price": "514.9411973287631",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Lokal"
+      },
+      {
+        "blot": "15020",
+        "blotv": "1.502e+06",
+        "bval": "7.7353e+08",
+        "bvalv": "7.7353e+08",
+        "netbs_broker_code": "FS",
+        "netbs_buy_avg_price": "515",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Asing"
+      },
+      {
+        "blot": "9940",
+        "blotv": "1.3053e+06",
+        "bval": "5.069505e+08",
+        "bvalv": "6.657045e+08",
+        "netbs_broker_code": "HP",
+        "netbs_buy_avg_price": "510.0011491611124",
+        "netbs_date": "20240508",
+        "netbs_stock_code": "SMRA",
+        "type": "Lokal"
+      }
+    ],
+    "brokers_sell": [
+      {
+        "netbs_broker_code": "CC",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "513.359895358749",
+        "netbs_stock_code": "SMRA",
+        "slot": "-324876",
+        "slotv": "3.4021e+07",
+        "sval": "-1.667374e+10",
+        "svalv": "1.7465017e+10",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "AK",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "512.6847961049843",
+        "netbs_stock_code": "SMRA",
+        "slot": "-148328",
+        "slotv": "1.63491e+07",
+        "sval": "-7.601165e+09",
+        "svalv": "8.381935e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "BB",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "511.89197869706385",
+        "netbs_stock_code": "SMRA",
+        "slot": "-85622",
+        "slotv": "8.5622e+06",
+        "sval": "-4.3829215e+09",
+        "svalv": "4.3829215e+09",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "LG",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "510.70796981843904",
+        "netbs_stock_code": "SMRA",
+        "slot": "-40014",
+        "slotv": "4.241e+06",
+        "sval": "-2.042648e+09",
+        "svalv": "2.1659125e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "KZ",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "513.3912900575185",
+        "netbs_stock_code": "SMRA",
+        "slot": "-29890",
+        "slotv": "3.0425e+06",
+        "sval": "-1.534708e+09",
+        "svalv": "1.561993e+09",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "BK",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "518.4239268478537",
+        "netbs_stock_code": "SMRA",
+        "slot": "-8359",
+        "slotv": "1.5748e+06",
+        "sval": "-4.378025e+08",
+        "svalv": "8.16414e+08",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "XA",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "515.2150537634409",
+        "netbs_stock_code": "SMRA",
+        "slot": "-4295",
+        "slotv": "465000",
+        "sval": "-2.212425e+08",
+        "svalv": "2.39575e+08",
+        "type": "Asing"
+      },
+      {
+        "netbs_broker_code": "YB",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "511.0385414262636",
+        "netbs_stock_code": "SMRA",
+        "slot": "-2673",
+        "slotv": "433300",
+        "sval": "-1.364305e+08",
+        "svalv": "2.21433e+08",
+        "type": "Lokal"
+      },
+      {
+        "netbs_broker_code": "DX",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "515",
+        "netbs_stock_code": "SMRA",
+        "slot": "-1525",
+        "slotv": "200000",
+        "sval": "-7.8575e+07",
+        "svalv": "1.03e+08",
+        "type": "Pemerintah"
+      },
+      {
+        "netbs_broker_code": "ZP",
+        "netbs_date": "20240508",
+        "netbs_sell_avg_price": "515.3852077264208",
+        "netbs_stock_code": "SMRA",
+        "slot": "-1270",
+        "slotv": "5.3893e+06",
+        "sval": "-7.80775e+07",
+        "svalv": "2.7775655e+09",
+        "type": "Asing"
+      }
+    ],
+    "symbol": "SMRA",
+    "date": "2024-05-08"
+  }
+]
